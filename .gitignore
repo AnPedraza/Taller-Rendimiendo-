@@ -1,0 +1,4 @@
+bin/
+Soluciones/*.dat
+*.o
+.DS_Store
