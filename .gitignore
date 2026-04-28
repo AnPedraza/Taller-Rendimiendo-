@@ -1,4 +1,12 @@
-bin/
-Soluciones/*.dat
+# Archivos de compilación
 *.o
+bin/
+
+# Resultados de experimentos (Para no saturar Git)
+Soluciones/*.dat
+
+# Archivos del sistema y temporales
 .DS_Store
+*.d
+*.exe
+*.out
